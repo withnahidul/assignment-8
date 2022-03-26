@@ -17,8 +17,8 @@ const Faq = () => {
       <h2>2. How useStste works?</h2>
       <p>
         its mainly use for Distructring data.In useState perameter we can pass
-        diffrent value, There are some steps of usestate: -Declare the state
-        first. -Showing the state in Ui. -Set an event handler. -Use onClick and
+        diffrent value, There are some steps of usestate: Declare the state
+        first. Showing the state in Ui. Set an event handler. Use onClick and
         make connection Btween Event Handler.
       </p>
 
