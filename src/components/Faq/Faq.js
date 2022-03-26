@@ -16,20 +16,20 @@ const Faq = () => {
       </p>
       <h2>2. How useStste works?</h2>
       <p>
-        its mainly use for Distructring data.In useState perameter we can pass
-        diffrent value, There are some steps of usestate: Declare the state
+        It's mainly use for Distructring data.In useState perameter, we can pass
+        diffrent value. There are some steps of usestate: Declare the state
         first. Showing the state in Ui. Set an event handler. Use onClick and
         make connection Btween Event Handler.
       </p>
 
       <h2>3. What are the Diffreence Between Props and State?</h2>
       <p>
-        Props: Its use for sending data. Props are immutable. you can pass
+        <b>Props:</b> Its use for sending data. Props are immutable. you can pass
         properties from parents components. Determine the view upon creation ,
         and then they remain static. State: Without state your react application
         is just a glorified static template. State are mutable. You vant define
         states in the components itselfs. The state is set and update by the
-        object. State: Without state your react application is just a glorified
+        object.<b>State:</b> Without state your react application is just a glorified
         static template. State are mutable. You vant define states in the
         components itselfs. The state is set and update by the object.
       </p>
