@@ -3,3 +3,17 @@
     top:0;
     padding: 30px 20px;
 }
+.btn-custom{
+    display: grid;
+    gap: 10px;
+
+}
+.btn-btn{
+padding: 0 15px;
+background-color: aqua;
+text-align: center;
+border-radius: 5px;
+}
+.btn-btn:hover{
+    background-color: rgb(148, 146, 143);
+}
