@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Cart from "../../Cart/Cart";
 import Product from "../../Product/Product";
 import './Book.css';
 
@@ -28,8 +29,7 @@ fetch ('products.json')
 }
  </div>
  <div className="cart-container">
-<h3>this is for cart</h3>
-<p>Selected item: {cart.length} </p>
+<Cart cart={cart}></Cart>
  </div>
 </div>
     );

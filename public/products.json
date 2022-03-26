@@ -1,7 +1,7 @@
 [
 
   {
-    "id": "4a0090e7-b65d-4f6e-a42b-5603a3f51883",
+    "id": "001",
     "category": "Bag",
     "name": "3-Stripes Backpack 2.0",
     "seller": "Addidas",
@@ -14,7 +14,7 @@
     "quantity": 0
   },
   {
-    "id": "0ac76ee7-53f1-45ba-b5ca-81ff6063bc1a",
+    "id": "002",
     "category": "Bag",
     "name": "Trefoil Backpack",
     "seller": "Addidas",
@@ -27,7 +27,7 @@
     "quantity": 0
   },
   {
-    "id": "1770549a-571b-4baf-bc58-7bae7a228dcb",
+    "id": "003",
     "category": "Bag",
     "name": "Santiago Lunch Bag",
     "seller": "Addidas",
@@ -40,7 +40,7 @@
     "quantity": 0
   },
   {
-    "id": "24b20ba6-9024-4b0a-b8a9-cf937521cede",
+    "id": "004",
     "category": "Bag",
     "name": "Blue Version Backpack",
     "seller": "Addidas",
@@ -53,7 +53,7 @@
     "quantity": 0
   },
   {
-    "id": "a7231186-0316-4cc0-94bf-4f496a382346",
+    "id": "005",
     "category": "Bag",
     "name": "Defender Backpack",
     "seller": "Addidas",
@@ -66,7 +66,7 @@
     "quantity": 0
   },
   {
-    "id": "35ac57f9-870a-4299-aac8-e5d8d2716b31",
+    "id": "006",
     "category": "Bag",
     "name": "Excel Backpack",
     "seller": "Addidas",
@@ -79,7 +79,7 @@
     "quantity": 0
   },
   {
-    "id": "c50bebaf-2633-4674-aba2-25be34bfdbba",
+    "id": "007",
     "category": "Bag",
     "name": "Alliance Sackpack",
     "seller": "Addidas",
@@ -92,7 +92,7 @@
     "quantity": 0
   },
   {
-    "id": "ff5bf372-7ed1-4904-aac5-7a2ce98e70ef",
+    "id": "008",
     "category": "Bag",
     "name": "R.Y.V. Toploader Backpack",
     "seller": "Addidas",
@@ -105,7 +105,7 @@
     "quantity": 0
   },
   {
-    "id": "83ef9902-0224-48d3-ba7c-eeff3e678d13",
+    "id": "009",
     "category": "Bag",
     "name": "Adicolor Archive Backpack",
     "seller": "Addidas",
@@ -118,7 +118,7 @@
     "quantity": 0
   },
   {
-    "id": "7490b4c8-8242-4de5-b161-b8ac96ea0e0b",
+    "id": "010",
     "category": "Bag",
     "name": "R.Y.V. Backpack",
     "seller": "Addidas",
