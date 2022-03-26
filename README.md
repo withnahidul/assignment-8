@@ -4,7 +4,7 @@ My aps name is (NiS Beg Store)
 
 ## NiS Beg Store Live site link
 
-Live site Link:
+Live site Link: nis-app.netlify.app
 
 ### `Project Details`
 
