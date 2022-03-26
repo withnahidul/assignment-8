@@ -1,19 +1,22 @@
-.book-container{
-    display: grid;
-    grid-template-columns: 4fr 1fr;
+.book-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
 }
-.prouducts-container{
-display: grid;
-grid-template-columns: repeat(3, 1fr);
-gap: 45px;
-
+.prouducts-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 45px;
 }
-.cart-container{
-    background-color:azure;
+.cart-container {
+  background-color: azure;
 }
-@media screen and (max-width:1100px){
-    .products-container{
-        grid-template-columns: repeat(2 ,1fr);
-    }
-   
+@media screen and (max-width: 600px) {
+  .prouducts-container {
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .prouducts-container {
+    grid-template-columns: repeat(2,1fr);
+  }
 }
