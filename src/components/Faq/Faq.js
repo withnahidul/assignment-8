@@ -29,7 +29,9 @@ const Faq = () => {
         and then they remain static. State: Without state your react application
         is just a glorified static template. State are mutable. You vant define
         states in the components itselfs. The state is set and update by the
-        object.
+        object. State: Without state your react application is just a glorified
+        static template. State are mutable. You vant define states in the
+        components itselfs. The state is set and update by the object.
       </p>
     </div>
   );
