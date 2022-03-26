@@ -1,19 +1,29 @@
 import React, { useEffect, useState } from "react";
+import Product from "../../Product/Product";
 import './Book.css';
 
 const Book = () => {
-   const [data, setData] = useState([]);
-   
-   useEffect ( () => {
-fetch ('data.json')
-.then(res=> res.json())
-.then(data => setData(data))
+   const [products, setProducts] = useState([]);
 
-   }, [])
+   useEffect ( () => {
+fetch ('products.json')
+.then(res=> res.json())
+.then(data => setProducts(data))
+
+   }, []);
+   const handleAddtoCart =(product) =>{
+    console.log('product');
+}
     return (
 <div className='book-container'>
  <div className="prouducts-container">
-<h2>This is for book: {data.length}</h2>
+{
+    products.map(product=><Product 
+    key={product.id}
+    product={product}
+    handleAddtoCart ={handleAddtoCart}
+    ></Product>)
+}
  </div>
  <div className="cart-container">
 <h3>this is for cart</h3>
