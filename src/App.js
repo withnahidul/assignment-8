@@ -1,14 +1,14 @@
 import './App.css';
-import Faq from './components/Faq/Faq';
-import Book from './components/Header/Book/Book';
 import Header from './components/Header/Header';
+import Question from './components/Question/Question';
+import Shop from './components/Shop/Shop';
 
 function App() {
   return (
     <div>
-<Header></Header>
-<Book></Book>
-<Faq></Faq>
+      <Header></Header>
+      <Shop></Shop>
+      <Question></Question>
     </div>
   );
 }
