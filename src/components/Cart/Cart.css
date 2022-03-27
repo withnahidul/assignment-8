@@ -1,18 +1,19 @@
 .cart{
     position: sticky;
-    top: 0;
+    top:0;
     padding: 30px 20px;
 }
-.cart-btn{
+.btn-custom{
     display: grid;
     gap: 10px;
+
 }
-.custom-btn{
-    padding: 10px 20px;
-    background-color: rgb(86, 150, 223);
-    border-radius: 20px;
-    text-align: center;
+.btn-btn{
+padding: 0 15px;
+background-color: aqua;
+text-align: center;
+border-radius: 5px;
 }
-.custom-btn:hover{
-    background-color: rgb(186, 212, 224);   
+.btn-btn:hover{
+    background-color: rgb(148, 146, 143);
 }

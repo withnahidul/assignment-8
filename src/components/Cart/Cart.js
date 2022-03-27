@@ -3,27 +3,24 @@ import "./Cart.css";
 
 const Cart = (props) => {
   const { cart } = props;
-  let selectedCart = '';
   let total = 0;
+  let selectCart = "";
 
   for (const product of cart) {
-    selectedCart = selectedCart + product.name;
-    total = total + product.price * product.quantity;
+    total = total + product.price;
+    selectCart = selectCart + product.name;
   }
   return (
     <div className="cart">
-      <h4>Selected Items</h4>
-      <h3>{selectedCart + ' '}</h3>
-      <p>Total price: ${total}</p>
-      <div className="cart-btn">
-        <button className="custom-btn">Choose 1 for me</button>
-        <button className="custom-btn">Choose Again</button>
+      <h3>This is for cart</h3>
+      <p>Select Item:{cart.length} </p>
+      <h3>{selectCart} </h3>
+      <p>Total price:${total}</p>
+      <div className="btn-custom">
+        <button className="btn-btn">Choose One</button>
+        <button className="btn-btn">Reset</button>
       </div>
-
     </div>
   );
 };
-
-
-
 export default Cart;

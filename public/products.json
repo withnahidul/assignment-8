@@ -1,62 +1,134 @@
 [
+
   {
-    "id": "2022032601",
+    "id": "001",
+    "category": "Bag",
     "name": "3-Stripes Backpack 2.0",
+    "seller": "Addidas",
     "price": 74,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ba79ccb861fd4fd49e3aac9f006a6407_9366/3-Stripes_Backpack_2.0_Grey_EX6735_01_standard.jpg"
+    "stock": 7,
+    "ratings": 5,
+    "ratingsCount": 365,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ba79ccb861fd4fd49e3aac9f006a6407_9366/3-Stripes_Backpack_2.0_Grey_EX6735_01_standard.jpg",
+    "shipping": 23,
+    "quantity": 0
   },
   {
-    "id": "2022032602",
+    "id": "002",
+    "category": "Bag",
     "name": "Trefoil Backpack",
+    "seller": "Addidas",
     "price": 65,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a520df1b51384c00af9caca100489f04_9366/Trefoil_Backpack_Black_EX6752_01_standard.jpg"
+    "stock": 3,
+    "ratings": 4,
+    "ratingsCount": 465,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a520df1b51384c00af9caca100489f04_9366/Trefoil_Backpack_Black_EX6752_01_standard.jpg",
+    "shipping": 36,
+    "quantity": 0
   },
   {
-    "id": "2022032603",
+    "id": "003",
+    "category": "Bag",
     "name": "Santiago Lunch Bag",
+    "seller": "Addidas",
     "price": 63,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c2aaf5e8a7924f1d9277ac9f005b5f37_9366/Santiago_Lunch_Bag_Black_EX6532_01_standard.jpg"
+    "stock": 10,
+    "ratings": 3,
+    "ratingsCount": 346,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c2aaf5e8a7924f1d9277ac9f005b5f37_9366/Santiago_Lunch_Bag_Black_EX6532_01_standard.jpg",
+    "shipping": 42,
+    "quantity": 0
   },
   {
-    "id": "2022032604",
+    "id": "004",
+    "category": "Bag",
     "name": "Blue Version Backpack",
+    "seller": "Addidas",
     "price": 87,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a9e0c5635057425daab5ad0b0089194b_9366/Blue_Version_Backpack_Black_H22735_01_standard.jpg"
+    "stock": 15,
+    "ratings": 5,
+    "ratingsCount": 234,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a9e0c5635057425daab5ad0b0089194b_9366/Blue_Version_Backpack_Black_H22735_01_standard.jpg",
+    "shipping": 21,
+    "quantity": 0
   },
   {
-    "id": "2022032605",
+    "id": "005",
+    "category": "Bag",
     "name": "Defender Backpack",
+    "seller": "Addidas",
     "price": 96,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d6ee0177281f42f0a254acb1016aa051_9366/Defender_Backpack_Red_EX7011_01_standard.jpg"
+    "stock": 10,
+    "ratings": 4,
+    "ratingsCount": 241,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d6ee0177281f42f0a254acb1016aa051_9366/Defender_Backpack_Red_EX7011_01_standard.jpg",
+    "shipping": 15,
+    "quantity": 0
   },
   {
-    "id": " 2022032606",
+    "id": "006",
+    "category": "Bag",
     "name": "Excel Backpack",
+    "seller": "Addidas",
     "price": 62,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ac09bb56249b43158485aca1007cc1ef_9366/Excel_Backpack_Black_EX6933_01_standard.jpg"
+    "stock": 18,
+    "ratings": 5,
+    "ratingsCount": 168,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ac09bb56249b43158485aca1007cc1ef_9366/Excel_Backpack_Black_EX6933_01_standard.jpg",
+    "shipping": 14,
+    "quantity": 0
   },
   {
-    "id": "2022032607",
+    "id": "007",
+    "category": "Bag",
     "name": "Alliance Sackpack",
+    "seller": "Addidas",
     "price": 99,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2e8a6f09838d49c3b00fad4f0017f753_9366/Alliance_Sackpack_White_FZ6823_01_standard.jpg"
+    "stock": 16,
+    "ratings": 3,
+    "ratingsCount": 311,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2e8a6f09838d49c3b00fad4f0017f753_9366/Alliance_Sackpack_White_FZ6823_01_standard.jpg",
+    "shipping": 40,
+    "quantity": 0
   },
   {
-    "id": "2022032608",
+    "id": "008",
+    "category": "Bag",
     "name": "R.Y.V. Toploader Backpack",
+    "seller": "Addidas",
     "price": 56,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1c87c940836e4628852bad130101e5c6_9366/R.Y.V._Toploader_Backpack_Black_H32458_01_standard.jpg"
+    "stock": 19,
+    "ratings": 3,
+    "ratingsCount": 471,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1c87c940836e4628852bad130101e5c6_9366/R.Y.V._Toploader_Backpack_Black_H32458_01_standard.jpg",
+    "shipping": 20,
+    "quantity": 0
   },
   {
-    "id": "2022032609",
+    "id": "009",
+    "category": "Bag",
     "name": "Adicolor Archive Backpack",
+    "seller": "Addidas",
     "price": 84,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0bb325f9cc174ea4bed7ad9e0101b682_9366/Adicolor_Archive_Backpack_Green_HE9804_01_standard.jpg"
+    "stock": 5,
+    "ratings": 4,
+    "ratingsCount": 445,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0bb325f9cc174ea4bed7ad9e0101b682_9366/Adicolor_Archive_Backpack_Green_HE9804_01_standard.jpg",
+    "shipping": 19,
+    "quantity": 0
   },
   {
-    "id": "2022032610",
+    "id": "010",
+    "category": "Bag",
     "name": "R.Y.V. Backpack",
+    "seller": "Addidas",
     "price": 67,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/dc7dca21df62473ea518ade101251809_9366/R.Y.V._Backpack_Black_HD9650_01_standard.jpg"
+    "stock": 10,
+    "ratings": 5,
+    "ratingsCount": 83,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/dc7dca21df62473ea518ade101251809_9366/R.Y.V._Backpack_Black_HD9650_01_standard.jpg",
+    "shipping": 24,
+    "quantity": 0
   }
+  
 ]
